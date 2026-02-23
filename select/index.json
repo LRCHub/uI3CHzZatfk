@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "boyfriend",
+  "base_artist": "阿部真央",
+  "createdAt": "2026-02-23T16:07:44.990474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boyfriend",
+      "artist": "Fettes Brot",
+      "has_synced": false,
+      "path": "select/01_Boyfriend_Fettes_Brot.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Boyfriend",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/02_Bad_Boyfriend_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Boyfriend (Garbage Remix)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/03_Bad_Boyfriend_(Garbage_Remix)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boyfriend",
+      "artist": "Majesty Crush",
+      "has_synced": true,
+      "path": "select/04_Boyfriend_Majesty_Crush.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Thought You Were My Boyfriend",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/05_I_Thought_You_Were_My_Boyfriend_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Suzie, Don't Leave Me With Your Boyfriend",
+      "artist": "Samantha Fox",
+      "has_synced": true,
+      "path": "select/06_Suzie,_Don't_Leave_Me_With_Your_Boyfriend_Samantha_Fox.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boyfriend",
+      "artist": "Alphabeat",
+      "has_synced": true,
+      "path": "select/07_Boyfriend_Alphabeat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mexican Boyfriend",
+      "artist": "Shivaree",
+      "has_synced": true,
+      "path": "select/08_Mexican_Boyfriend_Shivaree.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boyfriend",
+      "artist": "Best Coast",
+      "has_synced": true,
+      "path": "select/09_Boyfriend_Best_Coast.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boyfriend - 10th Anniversary Edition",
+      "artist": "Best Coast",
+      "has_synced": false,
+      "path": "select/10_Boyfriend_-_10th_Anniversary_Edition_Best_Coast.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Boyfriend (10th Anniversary Edition)",
+      "artist": "Best Coast",
+      "has_synced": false,
+      "path": "select/11_Boyfriend_(10th_Anniversary_Edition)_Best_Coast.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Boyfriend (Lindstrøm Remix - Radio Edit)",
+      "artist": "Best Coast",
+      "has_synced": false,
+      "path": "select/12_Boyfriend_(Lindstrøm_Remix_-_Radio_Edit)_Best_Coast.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Burning Boyfriend",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/13_Burning_Boyfriend_Beck.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kill Yr Boyfriend",
+      "artist": "Bis",
+      "has_synced": true,
+      "path": "select/14_Kill_Yr_Boyfriend_Bis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "boyfriend",
+      "artist": "阿部 真央",
+      "has_synced": false,
+      "path": "select/pl_01_boyfriend_阿部_真央.txt"
+    }
+  ]
+}
